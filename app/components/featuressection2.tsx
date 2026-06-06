@@ -11,7 +11,7 @@ const Page: React.FC = () => {
   return (
     <>
       {/* Features Section */}
-   <section id="featuress" className="relative z-10 bg-[#050816] px-6 py-20 md:px-10 md:py-24" id="features">
+   <section id="featuress" className="relative z-10 bg-[#050816] px-6 py-20 md:px-10 md:py-24" >
         <div
           className="pointer-events-none absolute inset-0 -z-10 opacity-50"
           style={{
