@@ -9,7 +9,7 @@
 
 - ✍Created - 2025-05-29✍
 
-- 💻Technologies Used - Html , Css , Nextjs, Material ui , Next Js , Framer Motion , Tailwind 💻
+- 💻Technologies Used - Html , Css , Next Js , Material ui  , Framer Motion , Tailwind 💻
 
 - Hooks Used : useState 
 
