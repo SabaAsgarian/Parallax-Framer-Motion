@@ -43,6 +43,11 @@ const Page: React.FC = () => {
           </motion.div>
 
           <div className="flex flex-col items-center gap-4 sm:flex-row">
+             <a
+                href="https://github.com/SabaAsgarian/Parallax-Framer-Motion"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
             <Button
               variant="contained"
               color="primary"
@@ -51,6 +56,12 @@ const Page: React.FC = () => {
             >
               Duplicate this layout
             </Button>
+              </a>
+             <a
+                href="https://github.com/SabaAsgarian/Parallax-Framer-Motion"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
             <Button
               variant="outlined"
               color="primary"
@@ -59,6 +70,7 @@ const Page: React.FC = () => {
             >
               Explore the code
             </Button>
+           </a>
           </div>
         </div>
       </section>

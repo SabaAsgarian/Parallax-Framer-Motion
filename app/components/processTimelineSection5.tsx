@@ -14,7 +14,7 @@ const Page: React.FC = () => {
     //  Process Timeline Section 
     < >
     <section className="relative overflow-hidden bg-[#020617]
-    px-6 py-20 md:px-10 md:py-24">
+    px-6 py-20 md:px-10 md:py-24" id="process">
         <div 
         className="pointer-events-none absolute inset-0 -z-10
         bg-[radial-gradient(circle_at_center,rgba(15,23,42,1)_0,#020617_55%,#000_100%)]"

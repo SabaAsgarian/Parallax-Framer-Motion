@@ -11,24 +11,24 @@
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
-    "@mui/icons-material": "^7.3.4",
-    "@mui/material": "^7.3.4",
-    "framer-motion": "^12.23.25",
-    "next": "^16.1.0",
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3"
+    "@mui/icons-material": "^9.0.1",
+    "@mui/material": "^9.0.1",
+    "framer-motion": "^12.40.0",
+    "next": "^16.2.7",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
+    "@types/node": "^25",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "autoprefixer": "^10.4.22",
-    "baseline-browser-mapping": "^2.9.4",
-    "eslint": "^9",
-    "eslint-config-next": "^16.1.0",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.17",
-    "typescript": "^5"
+    "autoprefixer": "^10.5.0",
+    "baseline-browser-mapping": "^2.10.34",
+    "eslint": "^10",
+    "eslint-config-next": "^16.2.7",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^6"
   }
 }

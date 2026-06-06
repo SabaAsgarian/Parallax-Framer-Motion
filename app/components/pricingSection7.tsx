@@ -12,7 +12,7 @@ const Page: React.FC = () => {
     const pricingOffset = useParallax(0.14);
   return (
     <div>
-     <section className="relative bg-[#050816] px-6 py-20 md:px-10 md:py-24">
+     <section className="relative bg-[#050816] px-6 py-20 md:px-10 md:py-24" id="pricing">
         <div
           className="pointer-events-none absolute inset-x-0 top-0 -z-10 h-72 bg-linear-to-b from-[#0f172a] to-transparent"
           style={{

@@ -9,7 +9,7 @@ const Page: React.FC = () => {
   return (
     <div id="Servicess" >
        {/* Services Section */}
-      <section className="relative bg-[#050816] px-6 py-20 md:px-10 md:py-24 min-h-screen max-h-auto">
+      <section className="relative bg-[#050816] px-6 py-20 md:px-10 md:py-24 min-h-screen max-h-auto" id="services">
         <div
           className="pointer-events-none absolute inset-x-0 top-0 -z-10 h-64 bg-linear-to-b from-[#0f172a] to-transparent opacity-80"
           style={{

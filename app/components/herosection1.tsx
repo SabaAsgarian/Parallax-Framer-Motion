@@ -70,6 +70,11 @@ const Page: React.FC = () => {
 
           <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <motion.div whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.98 }}>
+              <a
+                href="https://github.com/SabaAsgarian/Parallax-Framer-Motion"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
               <Button
                 variant="contained"
                 color="primary"
@@ -78,8 +83,14 @@ const Page: React.FC = () => {
               >
                 Get Started
               </Button>
+                </a>
             </motion.div>
             <motion.div whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.98 }}>
+               <a
+                href="https://github.com/SabaAsgarian/Parallax-Framer-Motion"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
               <Button
                 variant="outlined"
                 color="primary"
@@ -88,6 +99,7 @@ const Page: React.FC = () => {
               >
                 View Code
               </Button>
+                </a>
             </motion.div>
           </div>
         </motion.div>
